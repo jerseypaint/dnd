@@ -1,0 +1,86 @@
+- path: "/"
+  content:
+    hero:
+      title: A title for the hero
+      subtitle: Some para text to get the user more interested
+      img: building.jpg
+    whyus:
+        title: Why choose us
+        - item:
+            icon: icon.png
+            title: Ipsum lorem
+            description: A little bit more explanation
+        - item:
+            icon: icon.png
+            title: Ipsum lorem
+            description: A little bit more explanation
+        - item:
+            icon: icon.png
+            title: Ipsum lorem
+            description: A little bit more explanation
+    services:
+      title: Our services
+      description: Short and sweet about our services
+    cta: 
+      title: CTA button
+      link:
+        text: Click me
+        path: /contact
+- path: "/approach"
+  header: Our Approach
+  content:
+    title: Our Approach
+    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+        eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+        in culpa qui officia deserunt mollit anim id est laborum.
+- path: "/services"
+  header: Our services
+  content:
+    title: Business Consulting
+    body: Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups.
+        Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert.
+        Toffee gingerbread pie apple pie jelly beans pastry cookie.
+        Lemon drops wafer I love pastry halvah dragée pudding cake.
+        Cake halvah cookie jelly beans topping pudding cheesecake donut.
+    services:
+      - item:
+          title: Marketing & Sales
+          description: Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups.
+        Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert.
+        Toffee gingerbread pie apple pie jelly beans pastry cookie.
+        Lemon drops wafer I love pastry halvah dragée pudding cake.
+        Cake halvah cookie jelly beans topping pudding cheesecake donut.
+          image: sales.jpg
+      - item:
+          title: Strategy
+          description: Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups.
+        Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert.
+        Toffee gingerbread pie apple pie jelly beans pastry cookie.
+        Lemon drops wafer I love pastry halvah dragée pudding cake.
+        Cake halvah cookie jelly beans topping pudding cheesecake donut.
+          image: tablet.jpg
+      - item:
+          title: Operations
+          description: Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups.
+        Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert.
+        Toffee gingerbread pie apple pie jelly beans pastry cookie.
+        Lemon drops wafer I love pastry halvah dragée pudding cake.
+        Cake halvah cookie jelly beans topping pudding cheesecake donut.
+          image: meeting.jpg
+      - item:
+          title: Transformation
+          description: Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups.
+        Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert.
+        Toffee gingerbread pie apple pie jelly beans pastry cookie.
+        Lemon drops wafer I love pastry halvah dragée pudding cake.
+        Cake halvah cookie jelly beans topping pudding cheesecake donut.
+          image: presentation.jpg
+- path: "/contact"
+  header: Contact Us
+  content:
+    title: Send us a message
+    body: Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh
+        semiotics artisan synth stumptown gastropub cornhole celiac swag.

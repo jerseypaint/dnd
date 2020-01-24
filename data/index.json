@@ -1,0 +1,41 @@
+[
+    {
+        "hero": {
+            "title": "Customer Strategy & Marketing",
+            "subtitle": "You know your customers are the source of real growth. But what do they really care about? How do you reach them? What happens when you put them first? We combine in-depth insights with practical expertise in operations and economics to help you build a customer-focused—and growth-oriented—organization.",
+            "image": "./images/building.jpg"
+        },
+        "whyus": {
+            "title": "Why choose us",
+            "items": [
+                {
+                    "icon": "coffee",
+                    "title": "Ipsum lorem",
+                    "description": "A little bit more explanation"
+                },
+                {
+                    "icon": "coffee",
+                    "title": "Ipsum lorem",
+                    "description": "A little bit more explanation"
+                },
+                {
+                    "icon": "coffee",
+                    "title": "Ipsum lorem",
+                    "description": "A little bit more explanation"
+                }
+            ]
+        },
+        "services": {
+            "title": "Our services",
+            "description": "Short and sweet about our services",
+            "image": "./images/presentation.jpg"
+        },
+        "cta": {
+            "title": "Ready to talk?",
+            "link": {
+                "text": "Contact Us",
+                "path": "/contact"
+            }
+        }
+    }
+]

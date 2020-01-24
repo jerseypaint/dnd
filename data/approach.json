@@ -1,0 +1,25 @@
+[
+    {
+        "header": "Our Approach",
+        "description":"Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
+        "image": "./images/presentation.jpg",
+        "content": {
+            "title": "Our Approach",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "items": [
+                {
+                    "title": "Corporate and portfolio strategy",
+                    "description": "Our corporate finance consultants add a robust financial and capital market lens to corporate and portfolio strategy decisions. Strategy is our heritage and we apply our experience to help our clients determine where to play and how to win, taking into consideration the core business and opportunities for repeatable success in adjacent markets. Our ability to link strategy and corporate finance expertise helps our clients identify—and make informed decisions about—M&A opportunities that align with their corporate strategy. Nearly half of Bain's strategy work involves M&A as a key part of growth planning."
+                },
+                {
+                    "title": "Corporate and portfolio strategy",
+                    "description": "Our corporate finance consultants add a robust financial and capital market lens to corporate and portfolio strategy decisions. Strategy is our heritage and we apply our experience to help our clients determine where to play and how to win, taking into consideration the core business and opportunities for repeatable success in adjacent markets. Our ability to link strategy and corporate finance expertise helps our clients identify—and make informed decisions about—M&A opportunities that align with their corporate strategy. Nearly half of Bain's strategy work involves M&A as a key part of growth planning."
+                },
+                {
+                    "title": "Corporate and portfolio strategy",
+                    "description": "Our corporate finance consultants add a robust financial and capital market lens to corporate and portfolio strategy decisions. Strategy is our heritage and we apply our experience to help our clients determine where to play and how to win, taking into consideration the core business and opportunities for repeatable success in adjacent markets. Our ability to link strategy and corporate finance expertise helps our clients identify—and make informed decisions about—M&A opportunities that align with their corporate strategy. Nearly half of Bain's strategy work involves M&A as a key part of growth planning."
+                }
+            ]
+        }
+    }
+]
