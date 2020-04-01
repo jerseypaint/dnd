@@ -1,11 +1,11 @@
 [
     {
         "header": "Contact Us",
-        "description":"Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
+        "description":"If you got to this page, you might as well drop a line, get some information without any obligation.  Promise there won’t be any spamming emails or calls! Doing nothing won’t get you any closer to where you want to be.",
         "image": "./images/sales.jpg",
         "content": {
-            "title": "Send us a message",
-            "body": "Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag."
+            "title": "Start the conversation",
+            "body": "We can chat about whatever you have in mind at no charge* or send an email  and DDBS will let you know what we can do for you.  Let us know your biggest challenge, your timetable and budget, and we’ll let you know what next steps should be."
         }
     }
 ]

@@ -31,6 +31,7 @@ const FeaturedImage = styled.div`
     width: 100%;
     margin: auto;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 33% 100%);
+    max-height: 800px;
   }
 `
 

@@ -28,6 +28,11 @@ const Content = styled.div`
     width: calc(33% - 1.5em);
     margin: 1em 1.5em 0 0;
   }
+
+  &:nth-last-child(-n+3) {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
 `
 
 const Title = styled.h2`
@@ -37,7 +42,7 @@ const Title = styled.h2`
 
 const Description = styled.p`
   font-size: .8889em;
-  min-height: 8.125rem
+  min-height: 8.125rem;
 `
 const widescreen = css`
   height: 400px;

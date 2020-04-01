@@ -13,6 +13,7 @@ const Flexbox = styled.div`
 const FlexboxItem = styled.div`
   flex: 1 1;
   text-align: center;
+  padding: 1.2rem;
 
   .svg-inline--fa {
     height: 32px;

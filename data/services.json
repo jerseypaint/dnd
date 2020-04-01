@@ -1,31 +1,26 @@
 [
     {
         "header": "Our services",
-        "description":"Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
+        "description":"Your business is constantly facing challenges from disruptive competitors, economic upheaval and corporate culture evolution.  DDBS works with you to figure out what would be the next steps after major change. We can bring clarity to your vision and put new ideas into action.",
         "image": "./images/tablet.jpg",
         "content": {
             "title": "Business Consulting",
             "body": "Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
             "services": [
                 {
-                    "title": "Marketing & Sales",
-                    "description": "Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
-                    "image": "./images/sales.jpg"
+                    "title": "Discovery & Evaluation",
+                    "description": "Opportunity doesn’t always knock -- sometimes you have to search for it.  Let us review your business model and, together, discover new ways of generating revenue and creating efficiencies.",
+                    "image": "./images/work-hard.jpg"
                 },
                 {
-                    "title": "Strategy",
-                    "description": "Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
-                    "image": "./images/tablet.jpg"
+                    "title": "Process Development & Implementation",
+                    "description": "When your processes are out of sync, your business suffers. By fortifying your procedures, you mitigate risks, improve customer satisfaction and increase productivity.  Let us evaluate your operations, develop processes and procedures that will stand the test of time and turnover!",
+                    "image": "./images/order-here.jpg"
                 },
                 {
-                    "title": "Operations",
-                    "description": "Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
-                    "image": "./images/meeting.jpg"
-                },
-                {
-                    "title": "Transformation",
-                    "description": "Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
-                    "image": "./images/presentation.jpg"
+                    "title": "Business Planning & Editing",
+                    "description": "Seeing the big picture is not always the problem--it’s identifying the details that are needed to bring that picture into focus.  Bring us your business plan and use us as a sounding board for developing next steps. We will work to bring perspective to your vision and add structure to your operating strategy.",
+                    "image": "./images/desk.jpg"
                 }
             ]
         }

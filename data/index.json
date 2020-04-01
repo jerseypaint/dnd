@@ -1,27 +1,27 @@
 [
     {
         "hero": {
-            "title": "Customer Strategy & Marketing",
-            "subtitle": "You know your customers are the source of real growth. But what do they really care about? How do you reach them? What happens when you put them first? We combine in-depth insights with practical expertise in operations and economics to help you build a customer-focused—and growth-oriented—organization.",
-            "image": "./images/building.jpg"
+            "title": "Congrats, You’re a business owner! Now what??",
+            "subtitle": "Your dream of owning your business is a reality.  And part of that reality is getting things running smoothly.  Navigating the operations, staffing and marketing can be overwhelming. Let us help you map out the steps needed to stabilize your operations and procedures, and then build strategies that will position your company for growth.",
+            "image": "./images/wall.jpg"
         },
         "whyus": {
-            "title": "Why choose us",
+            "title": "Guidance",
             "items": [
                 {
-                    "icon": "coffee",
-                    "title": "Ipsum lorem",
-                    "description": "A little bit more explanation"
+                    "icon": "compass",
+                    "title": "Direction",
+                    "description": "There are many moving parts to operating a business and keeping things running smoothly can be challenging. DDBS will help identify areas where you can improve efficiency, minimize risk and position yourself for growth."
                 },
                 {
-                    "icon": "coffee",
-                    "title": "Ipsum lorem",
-                    "description": "A little bit more explanation"
+                    "icon": "building",
+                    "title": "Action",
+                    "description": "We work to bring your vision into a viable plan that can be implemented and executed."
                 },
                 {
-                    "icon": "coffee",
-                    "title": "Ipsum lorem",
-                    "description": "A little bit more explanation"
+                    "icon": "chart-line",
+                    "title": "Growth",
+                    "description": "Growth is the goal. We can help identify areas of opportunity so as to position your business for expansion."
                 }
             ]
         },

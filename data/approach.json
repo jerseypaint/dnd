@@ -1,23 +1,23 @@
 [
     {
         "header": "Our Approach",
-        "description":"Cupcake ipsum dolor sit amet tootsie roll sesame snaps chupa chups. Sugar plum chupa chups topping I love carrot cake I love marshmallow dessert. Toffee gingerbread pie apple pie jelly beans pastry cookie. Lemon drops wafer I love pastry halvah dragée pudding cake. Cake halvah cookie jelly beans topping pudding cheesecake donut.",
+        "description":"Unlike other consulting companies that tell you what to do, our approach is much more collaborative.  We work alongside you to add viability to your vision through strategic planning and implementation of processes. We understand the importance of taking things step by step so your foundation is secure and growth more secure.",
         "image": "./images/presentation.jpg",
         "content": {
             "title": "Our Approach",
             "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
             "items": [
                 {
-                    "title": "Corporate and portfolio strategy",
-                    "description": "Our corporate finance consultants add a robust financial and capital market lens to corporate and portfolio strategy decisions. Strategy is our heritage and we apply our experience to help our clients determine where to play and how to win, taking into consideration the core business and opportunities for repeatable success in adjacent markets. Our ability to link strategy and corporate finance expertise helps our clients identify—and make informed decisions about—M&A opportunities that align with their corporate strategy. Nearly half of Bain's strategy work involves M&A as a key part of growth planning."
+                    "title": "Collaborative",
+                    "description": "We can work virtually or with intermittent face to face visits - It’s entirely up to you.  The point is that we work with you, at your pace and on projects that matter most to you.  We believe in making every client a partner, so we are both invested in your success!"
                 },
                 {
-                    "title": "Corporate and portfolio strategy",
-                    "description": "Our corporate finance consultants add a robust financial and capital market lens to corporate and portfolio strategy decisions. Strategy is our heritage and we apply our experience to help our clients determine where to play and how to win, taking into consideration the core business and opportunities for repeatable success in adjacent markets. Our ability to link strategy and corporate finance expertise helps our clients identify—and make informed decisions about—M&A opportunities that align with their corporate strategy. Nearly half of Bain's strategy work involves M&A as a key part of growth planning."
+                    "title": "Common Sense",
+                    "description": "DDBS believes strongly that common sense is the best tool for finding solutions.  We don’t believe in creating plans and strategies that are ultimately designed to drain you of funds.  Rather, we look for practical solutions that are achievable with the resources you currently have available. In other words, we work with what you have to get what you want."
                 },
                 {
-                    "title": "Corporate and portfolio strategy",
-                    "description": "Our corporate finance consultants add a robust financial and capital market lens to corporate and portfolio strategy decisions. Strategy is our heritage and we apply our experience to help our clients determine where to play and how to win, taking into consideration the core business and opportunities for repeatable success in adjacent markets. Our ability to link strategy and corporate finance expertise helps our clients identify—and make informed decisions about—M&A opportunities that align with their corporate strategy. Nearly half of Bain's strategy work involves M&A as a key part of growth planning."
+                    "title": "Consistent and Transparent",
+                    "description": "DDBS promises to keep to high standards of integrity, confidentiality and quality to deliver the service you can rely upon.  We work hard to meet the expectations of our clients and will tell you what you should know--not just what you want to hear. Why not send a quick note and get the conversation started?"
                 }
             ]
         }
