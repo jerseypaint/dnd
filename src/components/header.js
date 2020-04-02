@@ -9,7 +9,7 @@ const header = css`
   border-bottom: 1px solid #D8D8D8;
   padding: .5em 1em;
 
-  @media (min-width: 768px) {
+  @media (min-width: 1100px) {
     padding: .5em 0;
   }
 `

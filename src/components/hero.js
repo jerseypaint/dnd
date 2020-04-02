@@ -5,9 +5,13 @@ import Image from "gatsby-image"
 
 
 const Flexbox = styled.div`
+  margin: 0 1em;
   @media (min-width: 768px) {
     display: flex;
     align-items: center;
+  }
+
+  @media (min-width: 1100px) {
     padding: 4em 0;
   }
 `
@@ -32,6 +36,10 @@ const FeaturedImage = styled.div`
     margin: auto;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 33% 100%);
     max-height: 800px;
+
+    .gatsby-image-wrapper {
+      max-height: 800px;
+    }
   }
 `
 

@@ -14,6 +14,9 @@ const Flexbox = styled.div`
 `
 
 const FlexboxItem = styled.div`
+    &:nth-of-type(1){
+      margin-left: 1em;
+    }
   @media (min-width: 768px) {  
     flex: 1 1;
     &:nth-of-type(1){

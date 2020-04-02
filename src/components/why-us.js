@@ -7,11 +7,16 @@ import Section from "./section"
 const Flexbox = styled.div`
   @media (min-width: 768px) {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  @media (min-width: 1100px) {
+    flex-wrap: nowrap;
   }
 `
 
 const FlexboxItem = styled.div`
-  flex: 1 1;
   text-align: center;
   padding: 1.2rem;
 
@@ -19,6 +24,15 @@ const FlexboxItem = styled.div`
     height: 32px;
     width: auto;
     margin-bottom: 1em;
+  }
+
+
+  @media (min-width: 768px) {
+    width: 50%;
+  }
+
+  @media (min-width: 1100px) {
+    flex: 1 1;
   }
 `
 

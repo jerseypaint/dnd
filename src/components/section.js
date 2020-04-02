@@ -8,7 +8,7 @@ const Wrapper = styled.div`
 const Section = styled.section`
   padding: 4em 1em;
 
-  @media (min-width: 768px) {
+  @media (min-width: 1100px) {
     padding: 4em 0;
   }
 `
