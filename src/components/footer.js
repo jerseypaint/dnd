@@ -13,14 +13,34 @@ const SiteFooter = styled.footer`
 const Wrapper = styled.div`
   max-width: 1100px;
   margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
 `
 
 const Flexbox = styled.div`
   display: flex;
+  margin-right: 2rem;
 `
 
-const SaleTag = styled.p`
-  opacity: 0.4;
+const LinkList = styled.ul`
+  flex: 1 1;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+
+  li {
+    padding: 0 1rem;
+
+    a {
+      text-decoration: none;
+      color: white;
+      transition: all 200ms;
+
+      &:hover {
+          color: #c00;
+        }
+    }
+  }
 `
 
 const Footer = () => {
@@ -51,7 +71,11 @@ const Footer = () => {
               <Flexbox>
                   <Link to={`/`} className="footer-logo" ><Image fixed={data.image.childImageSharp.fixed} alt="site logo" /></Link>
               </Flexbox>
-              <SaleTag>Website built by <a href={`https://supersweetsites.com`}>Super Sweet Sites</a>.</SaleTag>
+              <LinkList>
+                {data.site.siteMetadata.menuLinks.map(menuLink => (
+                  <li><Link to={menuLink.link}>{menuLink.name}</Link></li>
+                ))}
+              </LinkList>
           </Wrapper>
       </SiteFooter>
   )

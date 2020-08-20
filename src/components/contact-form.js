@@ -10,7 +10,6 @@ const Label = styled.label`
   p {
     margin-bottom: 4px;
   }
-}
 `
 const button = css`
   background-color: #c00;
@@ -31,7 +30,6 @@ const button = css`
       border-color: transparent;
       background:  #9d1b22;
       color:  #fff;
-    }
   }
 `
 
@@ -49,15 +47,15 @@ const ContactForm = (props) => (
     <input css={fields} type="hidden" name="form-name" value={props.name} />
     <Label>
       <p>Name:</p>
-      <input css={fields} type="text" name="name" id="name" placeholder="John Doe" />
+      <input css={fields} type="text" name="name" id="name" />
     </Label>
     <Label>
     <p>Email:</p>
-      <input css={fields} type="email" name="email" id="email" placeholder="johndoe@smallbiz.com" />
+      <input css={fields} type="email" name="email" id="email" />
     </Label>
     <Label>
     <p>Message:</p>
-      <textarea css={fields} name="message" id="message" rows="5" placeholder="I need a new website" />
+      <textarea css={fields} name="message" id="message" rows="5" />
     </Label>
     <button css={button} type="submit">Contact Us</button>
   </Form>
