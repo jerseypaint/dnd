@@ -161,7 +161,7 @@ const Header = () => {
       }
       image: file(relativePath: { eq: "logo.png" }) {
         childImageSharp {
-          fixed (width:150) {
+          fixed (height:100) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -172,7 +172,7 @@ const Header = () => {
   return (
       <header id={`site-header`} css={header}>
         <Wrap>
-          <Link to={`/`}><Img fixed={data.image.childImageSharp.fixed} alt="super sweet sites logo" /></Link>
+          <Link to={`/`}><Img fixed={data.image.childImageSharp.fixed} alt="logo" /></Link>
           <Nav>
             <ul>
               {data.site.siteMetadata.menuLinks.map(link => (

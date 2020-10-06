@@ -57,7 +57,7 @@ const Footer = () => {
       }
       image: file(relativePath: { eq: "logo.png" }) {
         childImageSharp {
-          fixed (width:150) {
+          fixed (height:100) {
             ...GatsbyImageSharpFixed
           }
         }
